@@ -1,0 +1,10 @@
+{
+  "name": "reignScraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+	"type": "module",
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
